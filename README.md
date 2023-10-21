@@ -1,6 +1,6 @@
 ### Hi there 👋
 👋 Hello, I'm Rahul Das , a passionate student at College of Engineering Trivandrum with a love for technology and a commitment to creating meaningful solutions. I thrive on the excitement of tackling complex challenges and transforming ideas into practical, elegant solutions.
-</br>
+<br />
 - 🔭 I’m currently working on  IEDC Summit Admin App
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Flutter projects
