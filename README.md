@@ -40,3 +40,11 @@ Here are some ideas to get you started:
 <br />
 
 #
+
+
+<div align="center" >
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=RAHUL-DAS-P&theme=merko" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=RAHUL-DAS-P&theme=merko&layout=compact&langs_count=8&card_width=320" />
+</div>
+
+<br />
