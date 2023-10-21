@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter projects
 
 
-<a href="www.linkedin.com/in/rahul-das-p-11699b22a" target="_blank">
+<a href="https://www.linkedin.com/in/rahul-das-p-11699b22a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
